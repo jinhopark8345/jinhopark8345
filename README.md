@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/discussion/light)
+
+- [UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)
+](https://www.kaggle.com/competitions/UBC-OCEAN) - 28th place (Top3%), Silver Medal
