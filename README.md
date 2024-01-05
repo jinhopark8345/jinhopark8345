@@ -1,7 +1,8 @@
-### Hi there 👋
 
 <!--
 **jinhopark8345/jinhopark8345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinho8345/discussion/light)
